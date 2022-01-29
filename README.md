@@ -34,7 +34,7 @@ Wifi hacking tool using ESP8266 ( Evil-Twin method )
 * Reconnect after some time, it will display you the correct password in Result section.
 
 ## DEMONSTRATION VIDEO:
-[![YOUTUBE](/Images/ZiFi_yt.png)](https://youtu.be/tMtVHLnd8XE)
+[![YOUTUBE](/Images/ZiFi_yt.PNG)](https://youtu.be/tMtVHLnd8XE)
 
 ## CREDITS :
 * [M1z23R](https://github.com/M1z23R)  --> MODIFIED VERSION OF HIS SCRIPT
