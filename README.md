@@ -36,6 +36,11 @@ Wifi hacking tool using ESP8266 ( Evil-Twin method )
 ## DEMONSTRATION VIDEO:
 [![YOUTUBE](/Images/ZiFi_yt.PNG)](https://youtu.be/tMtVHLnd8XE)
 
+## CONTACT :
+[![Telegram](https://img.shields.io/badge/TELEGRAM-Team_ETF-blue?style=for-the-badge&logo=telegram)](https://t.me/Team_ETF)
+[![Twitter](https://img.shields.io/badge/TWITTER-SANKETH-blue?style=for-the-badge&logo=twitter)](https://twitter.com/SankethZ4N)
+<a href="https://www.youtube.com/channel/UCJnx0yDhcTLWM3ZrAtSvaIw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Team ETF-blue?style=for-the-badge&logo=Youtube"></a>
+
 ## CREDITS :
 * [M1z23R](https://github.com/M1z23R)  --> MODIFIED VERSION OF HIS SCRIPT
 * [Spacehuhn Technologies](https://github.com/SpacehuhnTech)   --> TEMPLATE
@@ -45,3 +50,6 @@ Wifi hacking tool using ESP8266 ( Evil-Twin method )
 Use it only against your own networks and devices!
 Please check the legal regulations in your country before using it.
 We don't take any responsibility for what you do with this program.
+
+## DONATIONS :
+- We don't ask much, if possible feed stray animals in your free time. 
